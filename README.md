@@ -1,1 +1,0 @@
-# salihkamas.github.io
