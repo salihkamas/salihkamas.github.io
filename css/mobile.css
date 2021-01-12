@@ -1,0 +1,17 @@
+#navbar{
+    flex-direction: column;
+    overflow: hidden;
+    padding: 0.5rem 0;
+    height: 60px;
+    width: 100%;
+}
+#blogs{
+    flex-direction: column;
+    width: 100%;
+}
+header{
+    height:60px;
+}
+body{
+    overflow:scroll;
+}
